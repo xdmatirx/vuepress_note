@@ -2,21 +2,20 @@
 home: true
 
 
-actionText: 让我们开始吧 
-actionLink: /Introduce/
+actionText: 这里开始
+actionLink: /Introduce/1.getting-start.md
 features:
 
-- title: AppFrame
-  details: AppFrame 开发文档
-  actionText: AppFrame
+- title: 简洁
+  details: 纯粹又清爽的文档展现
 
-- title: CAM
-  details: CAD 开发文档
-  actionText: CAD
 
-- title: CAM
-  details: CAM 开发文档
-  actionText: CAM
+- title: markdown书写
+  details: 保持原有的习惯
 
-  
+
+- title: 插件丰富
+  details: 实现多种功能
+
+
 ---
