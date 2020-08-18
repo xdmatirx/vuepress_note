@@ -1,13 +1,15 @@
 {
   "scripts": {
     "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "build": "vuepress build docs",
+    "deploy": "deploy.sh"
   },
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.5.0",
     "vuepress-plugin-autobar": "github:boboidream/vuepress-bar",
     "vuepress-plugin-fulltext-search": "^2.0.3",
     "vuepress-plugin-permalink-pinyin": "^1.0.0",
-    "vuepress-plugin-rpurl": "boboidream/vuepress-plugin-rpurl"
+    "vuepress-plugin-rpurl": "boboidream/vuepress-plugin-rpurl",
+    "vuedraggable": "^2.24.0"
   }
 }
