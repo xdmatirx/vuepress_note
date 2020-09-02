@@ -125,8 +125,10 @@ npm i svg-sprite-loader --save
    ```
 
 ## 8. 改色或者改图片大小的方法
-  ```
+   ```
     首先需要发过来的svg是透明的，也就是fill属性为空，
     改色可以通过给父元素的属性 fill: #fff 这样改色
     大小是font-size: 14px 这样
+  ```
+
   ```
